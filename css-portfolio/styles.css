@@ -89,6 +89,9 @@ a .color-web-header {
 }
 
 /* FILTER  */
+.title-portfolio {
+  display: none;
+}
 
 .filter-title {
   list-style: none;
