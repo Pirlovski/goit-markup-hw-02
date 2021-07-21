@@ -106,7 +106,7 @@ a .color-web-header {
 .title-list {
   list-style: none;
 }
-a .description {
+.description {
   color: var(--title-text-color);
   font-style: normal;
   font-weight: bold;
