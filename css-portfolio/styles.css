@@ -103,7 +103,8 @@ a .color-web-header {
 .title-list {
   list-style: none;
 }
-.description {
+a .description {
+  color: var(--title-text-color);
   font-style: normal;
   font-weight: bold;
   font-size: 18px;
